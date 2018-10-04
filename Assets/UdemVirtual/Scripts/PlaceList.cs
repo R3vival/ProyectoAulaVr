@@ -2,15 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlaceList : MonoBehaviour {
+[CreateAssetMenu(menuName ="PlaceList")]
+public class PlaceList : ScriptableObject {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    public List<Place> placesList;
 }

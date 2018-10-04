@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e803827d8171a4e42826d01b621995e3, type: 3}
+  m_Name: GnralPlacesList
+  m_EditorClassIdentifier: 
+  placesList:
+  - {fileID: 11400000, guid: 0878f1a84f7ac924d8c1ac767164eb7b, type: 2}
+  - {fileID: 11400000, guid: 57a005fc7b65f3d48a85bc139ec3e317, type: 2}
+  - {fileID: 11400000, guid: d459e85afe2b2224aaf5e898c3a11109, type: 2}
+  - {fileID: 11400000, guid: f5abeb924be98cb4abba7c094cd902b7, type: 2}
+  - {fileID: 11400000, guid: bf707daa0c05ebb42898d37393bca4ba, type: 2}
+  - {fileID: 11400000, guid: c527a8101967ced428681d4dc869e763, type: 2}
+  - {fileID: 11400000, guid: 25fe60473cef8d44c9ae11e4d09e16a3, type: 2}
+  - {fileID: 11400000, guid: 490221ac35fa0244c842edca0c995a1e, type: 2}
+  - {fileID: 11400000, guid: cbafd62624a235149a110ed932fd6b52, type: 2}
+  - {fileID: 11400000, guid: 5b00f8d9b285b6048979eea3972e2722, type: 2}

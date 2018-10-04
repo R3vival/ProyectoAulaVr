@@ -5,11 +5,14 @@ using UnityEngine;
 [CreateAssetMenu(menuName = "Place")]
 public class Place : ScriptableObject {
 
-    public string Nombre="Nombre del lugar";
+    public string Nombre = "Nombre del lugar";
+    public bool ppal;
     public int Bloque;
-    public Place padre;
-
     public GameObject Model;
+
+    public List<Place> Sons;
+
+    
 
 
 	
