@@ -11,8 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c79aa381133dd243a08e16761ab0700, type: 3}
   m_Name: Bloque 4
   m_EditorClassIdentifier: 
-  Nombre: Coliseo
-  ppal: 1
+  Nombre: "FACULTAD DE INGENIER\xCDAS"
   Bloque: 4
+  SobreNombre: Nombre que le suelen poner los estudiantes
+  ppal: 1
   Model: {fileID: 1428130652402976, guid: 8897d7f5956c33a4291c6b3a356fec80, type: 2}
   Sons: []

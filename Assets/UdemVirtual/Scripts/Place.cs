@@ -6,8 +6,10 @@ using UnityEngine;
 public class Place : ScriptableObject {
 
     public string Nombre = "Nombre del lugar";
-    public bool ppal;
     public int Bloque;
+    public string SobreNombre = "Nombre que le suelen poner los estudiantes";
+    public bool ppal;
+    
     public GameObject Model;
 
     public List<Place> Sons;

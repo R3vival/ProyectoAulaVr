@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Name: Bloque 1
   m_EditorClassIdentifier: 
   Nombre: Coliseo
-  ppal: 1
   Bloque: 1
+  SobreNombre: Coliseo
+  ppal: 1
   Model: {fileID: 1428130652402976, guid: 8897d7f5956c33a4291c6b3a356fec80, type: 2}
   Sons: []

@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Name: Bloque 5
   m_EditorClassIdentifier: 
   Nombre: Coliseo
-  ppal: 0
   Bloque: 5
+  SobreNombre: Nombre que le suelen poner los estudiantes
+  ppal: 1
   Model: {fileID: 1428130652402976, guid: 8897d7f5956c33a4291c6b3a356fec80, type: 2}
   Sons: []
